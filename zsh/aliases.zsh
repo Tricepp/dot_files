@@ -1,0 +1,18 @@
+alias lla="ls -lah"
+eval "$(thefuck --alias)"
+
+###.ALIASES###
+alias zshconfig="nvim ~/.zshrc"
+alias ohmyzsh="nvim ~/.oh-my-zsh"
+alias vi="nvim"
+alias vim="nvim"
+alias v="nvim"
+alias pico="peco"
+alias lla="ls -lah"
+alias ll="exa -abgSlFhixHt modified --color-scale --git --header --octal-permissions --icons"
+#alias history=""
+#alias l="ls -CF"
+#alias la="ls -A"
+#alias ll="ls -alF"
+#alias ls="ls --color=auto"
+#alias lr="ls -alrt --color=auto"

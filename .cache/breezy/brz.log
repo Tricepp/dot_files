@@ -1,0 +1,31 @@
+
+this is a debug log for diagnosing/reporting problems in brz
+you can delete or truncate this file, or include sections in
+bug reports to https://bugs.launchpad.net/brz/+filebug
+
+Wed 2023-08-16 10:26:32 -0700
+0.962  encoding stdout as sys.stdout encoding 'ascii'
+0.963  encoding stdout as sys.stdout encoding 'ascii'
+0.963  encoding stdout as sys.stdout encoding 'ascii'
+1.286  breezy version: 3.3.3
+1.286  brz arguments: ['alias', 'ksdiff']
+1.371  encoding stdout as sys.stdout encoding 'ascii'
+1.372  return code 0
+
+
+Thu 2023-08-31 17:30:30 -0700
+Thu 2023-08-31 17:30:30 -0700
+0.263  encoding stdout as sys.stdout encoding 'ascii'
+0.263  encoding stdout as sys.stdout encoding 'ascii'
+0.263  encoding stdout as sys.stdout encoding 'ascii'
+0.264  encoding stdout as sys.stdout encoding 'ascii'
+0.264  encoding stdout as sys.stdout encoding 'ascii'
+0.264  encoding stdout as sys.stdout encoding 'ascii'
+0.354  breezy version: 3.3.3
+0.354  brz arguments: ['alias', 'diff']
+0.354  breezy version: 3.3.3
+0.354  brz arguments: ['alias', 'ksdiff']
+0.392  encoding stdout as sys.stdout encoding 'ascii'
+0.392  encoding stdout as sys.stdout encoding 'ascii'
+0.393  return code 0
+0.393  return code 0

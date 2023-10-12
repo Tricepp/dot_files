@@ -1,0 +1,14 @@
+ERR 2023-08-30T16:39:47.195 ?.45526    terminfo_start:367: uv_pipe_open failed: inappropriate ioctl for device
+ERR 2023-08-30T16:39:47.195 ?.38599    terminfo_start:367: uv_pipe_open failed: inappropriate ioctl for device
+ERR 2023-08-30T16:39:47.195 ?.45526    flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T16:39:47.195 ?.38599    flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T16:39:47.195 ?.45526    flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T16:39:47.195 ?.38599    flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T16:39:47.195 ?.38599    flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T16:39:47.195 ?.45526    flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T16:39:47.196 ?.38599    flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T16:39:47.196 ?.45526    flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T21:30:55.642 ?.8434     terminfo_start:367: uv_pipe_open failed: inappropriate ioctl for device
+ERR 2023-08-30T21:30:55.642 ?.8434     flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T21:30:55.643 ?.8434     flush_buf:2235: uv_write failed: bad file descriptor
+ERR 2023-08-30T21:30:55.644 ?.8434     flush_buf:2235: uv_write failed: bad file descriptor

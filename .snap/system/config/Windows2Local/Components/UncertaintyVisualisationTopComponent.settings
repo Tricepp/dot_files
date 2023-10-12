@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.esa.snap.snap.rcp" spec="9.0.0"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.esa.snap.rcp.colormanip.UncertaintyVisualisationTopComponent"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <serialdata class="org.esa.snap.rcp.colormanip.UncertaintyVisualisationTopComponent">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D6403000078707400406F72672E6573612E736E61702E7263702E636F6C6F726D616E69702E556E6365727461
+        696E747956697375616C69736174696F6E546F70436F6D706F6E656E747372000F6A6176612E6C616E672E53686F7274684D
+        37133460DA5202000153000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200007870
+        0001770400000001740019556E6365727461696E74795F56697375616C69736174696F6E70740019556E6365727461696E74
+        792056697375616C69736174696F6E7078
+    </serialdata>
+</settings>
