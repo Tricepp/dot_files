@@ -1,6 +1,0 @@
-BREWFILE_BACKUP_LOCATION=~/isepp_dot_files/brew/brew_backup
-DATE=`date +%d-%m-%Y`
-
-cd ~/isepp_dot_files/brew/brew_backup
-brew bundle dump
-mv Brewfile "$BREWFILE_BACKUP_LOCATION/brewfile-$DATE"
